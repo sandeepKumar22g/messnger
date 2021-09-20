@@ -1,0 +1,330 @@
+
+.box{
+    height: 600px;
+    width: 300px;
+    border: 3px solid;
+    border-radius: 10px;
+}
+.top{
+    height: 20px;
+    width: 100%;
+    border-radius: 5px;
+    display: flex;
+}
+.t1{
+    height: 20px;
+    width: 20%;
+    font-size: 14px;
+    padding: 0px;
+}
+.t2{
+    height: 20px;
+    width: 50%;
+}
+.t21{
+    height: 20px;
+    width: 20px;
+    background-color: gray;
+    position: relative;
+    left: 80px;
+    border-radius: 20px;
+}
+.t211{
+    height: 15px;
+    width: 15px;
+    background-color: black;
+    position: absolute;
+    left: 2px;
+    top: 2px;
+    border-radius: 15px;
+}
+.t3{
+    height: 20px;
+    width: 30%;
+    display: flex;
+    
+}
+.t31{
+    height: 20px;
+    width: 70%;
+}
+.t32{
+    height: 20px;
+    width: 30%;
+    background-color: gray;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.chat{
+    height: 50px;
+    width: 300px;
+    display: flex;
+}
+.chat1{
+    height: 50px;
+    width: 60px;
+    border-radius: 30px;
+}
+.chat2{
+    height: 50px;
+    width: 150px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+.chat3{
+    height: 50px;
+    width: 90px;
+}
+.search{
+    height: 30px;
+    width: 300px;
+
+}
+input{
+    height: 25px;
+    width: 290px;
+    font-size: 22px;
+    border-radius: 20px;
+}
+.online{
+    height: 80px;
+    width: 300px;
+    display: flex;
+}
+img{
+    border-radius: 50px;
+}
+.online1{
+height: 56px;
+width: 60px;
+border-radius: 50px;
+}
+.online2{
+height: 56px;
+width: 60px;
+border-radius: 50px;
+}
+.online3{
+height: 56px;
+width: 60px;
+border-radius: 50px;
+}
+.online4{
+height: 56px;
+width: 60px;
+border-radius: 50px;
+}
+.online5{
+height: 56px;
+width: 60px;
+border-radius: 50px; 
+}
+.message{
+    height: 390px;
+    width: 298px;
+    overflow:auto;
+}
+.m1{
+    height: 70px;
+    width: 298px;
+    display: flex;
+}
+.m11{
+    height: 70px;
+    width: 60px;
+    border-radius: 50px;
+}
+.m12{
+    height: 70px;
+    width: 240px;
+    text-indent: 10px;
+}
+.m121{
+    height: 35px;
+    width: 240px;
+    font-size: 20px;
+}
+.m122{
+    height: 35px;
+    width: 240px;
+    font-size: 15px;
+}
+.m2{
+    height: 70px;
+    width: 298px;
+    display: flex;
+}
+.m21{
+    height: 70px;
+    width: 60px;
+    border-radius: 50px;
+}
+.m22{
+    height: 70px;
+    width: 240px;
+    text-indent: 10px;
+}
+.m221{
+    height: 35px;
+    width: 240px;
+    font-size: 20px;
+}
+.m222{
+    height: 35px;
+    width: 240px;
+    font-size: 15px;
+}
+.m3{
+    height: 70px;
+    width: 298px;
+    display: flex;
+}
+.m31{
+    height: 70px;
+    width: 75px;
+    border-radius: 50px;
+}
+.m32{
+    height: 70px;
+    width: 300px;
+    text-indent: 10px;
+}
+.m321{
+    height: 35px;
+    width: 240px;
+    font-size: 20px;
+}
+.m322{
+    height: 35px;
+    width: 240px;
+    font-size: 15px;
+}
+.m4{
+    height: 70px;
+    width: 298px;
+    display: flex;
+}
+.m41{
+    height: 70px;
+    width: 75px;
+    border-radius: 50px;
+}
+.m42{
+    height: 70px;
+    width: 300px;
+    text-indent: 10px;
+}
+.m421{
+    height: 35px;
+    width: 240px;
+    font-size: 20px;
+}
+.m422{
+    height: 35px;
+    width: 240px;
+    font-size: 15px;
+}
+.m5{
+    height: 70px;
+    width: 300px;
+    display: flex;
+}
+.m51{
+    height: 70px;
+    width: 72px;
+    border-radius: 50px;
+}
+.m52{
+    height: 70px;
+    width: 300px;
+    text-indent: 10px;
+}
+.m521{
+    height: 35px;
+    width: 240px;
+    font-size: 20px;
+}
+.m522{
+    height: 35px;
+    width: 240px;
+    font-size: 15px;
+}
+.m6{
+    height: 70px;
+    width: 300px;
+    display: flex;
+}
+.m61{
+    height: 70px;
+    width: 72px;
+    border-radius: 50px;
+}
+.m62{
+    height: 70px;
+    width: 300px;
+    text-indent: 10px;
+}
+.m621{
+    height: 35px;
+    width: 240px;
+    font-size: 20px;
+}
+.m622{
+    height: 35px;
+    width: 240px;
+    font-size: 15px;
+}
+.m7{
+    height: 70px;
+    width: 300px;
+   display: flex;
+}
+.m71{
+    height: 70px;
+    width: 73px;
+    border-radius: 50px;
+}
+.m72{
+    height: 70px;
+    width: 300px;
+    text-indent: 10px;
+}
+.m721{
+    height: 35px;
+    width: 240px;
+    font-size: 20px;
+}
+.m722{
+    height: 35px;
+    width: 240px;
+    font-size: 15px;
+}
+.bottom{
+    height: 28px;
+    border-radius: 10px;
+    text-align: center;
+    word-spacing: 70px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.circle{
+    height: 10px;
+    width: 10px;
+    background-color: green;
+    border-radius: 10px;
+    position: relative;
+    left: 45px;
+    margin-top: 50px;
+}
+.c{
+    height: 10px;
+    width: 10px;
+    background-color: green;
+    border-radius: 10px;
+    position: absolute;
+    top: 150px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
